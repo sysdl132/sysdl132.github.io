@@ -1,2 +1,3 @@
 # sysdl132.github.io
-will auto jump to windows93.net
+Please go to:
+https://sysdl132.gitee.io
