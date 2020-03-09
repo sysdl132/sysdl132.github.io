@@ -42,7 +42,7 @@ other link:  https://sheeptester.github.io/words-go-here/htmlifier/
 
 ![img1](https://images.gitee.com/uploads/images/2020/0309/141523_0a2d2916_5676984.png)
 
-I.select your project(ID:https://scratch.mit.edu/projects/**310161394(ID)**/  or  upload).
+I.select your project(ID:https://scratch.mit.edu/projects/ **310161394(ID)** /  or  upload).
 
 II.Select the title of the window(see down/project name) and the username block value.
 
