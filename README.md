@@ -90,3 +90,5 @@ Download at: https://revocue.cz/en/make-sfx/index.php
 3.set your nw.exe in your folder.
 
 4.click``Make SFX``.
+
+[<back](sysdl132.gitee.io/htmlifier)
