@@ -1,5 +1,5 @@
 # Guide to convert scratch project to .exe
-
+Note:the image server crashed(can't display images).I will fix it soon.
 #### What you need:
 
 * a scratch project(.sb .sb2 .sb3)
