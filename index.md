@@ -40,13 +40,13 @@ other link:  https://sheeptester.github.io/words-go-here/htmlifier/
 
 3.Follow:
 
-![img1](https://images.gitee.com/uploads/images/2020/0309/141523_0a2d2916_5676984.png)
+![img1](https://github.com/sysdl132/sysdl132.github.io/blob/master/141523_0a2d2916_5676984.png?raw=true)
 
 I.select your project(ID:https://scratch.mit.edu/projects/ **310161394(ID)** /  or  upload).
 
 II.Select the title of the window(see down/project name) and the username block value.
 
-![img2](https://images.gitee.com/uploads/images/2020/0309/142311_671a8e48_5676984.png)
+![img2](https://github.com/sysdl132/sysdl132.github.io/blob/master/142311_671a8e48_5676984.png?raw=true)
 
 III.choose your options
 
@@ -81,7 +81,7 @@ Use makesfx.exe(search on google) to pack them into a single .exe
 
 Download at: https://revocue.cz/en/make-sfx/index.php
 
-![img3](https://images.gitee.com/uploads/images/2020/0309/143923_fc5c3e6a_5676984.png)
+![img3](https://github.com/sysdl132/sysdl132.github.io/blob/master/143923_fc5c3e6a_5676984.png?raw=true)
 
 1.set your NWJS folder.
 
