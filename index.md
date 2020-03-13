@@ -92,3 +92,5 @@ Download at: https://revocue.cz/en/make-sfx/index.php
 4.click``Make SFX``.
 
 [<back](https://sysdl132.gitee.io/htmlifier)
+
+If you have any problem,create an issue.
