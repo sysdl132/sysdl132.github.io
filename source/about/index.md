@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 date: 2025-11-14 11:49:12
 ---
 
@@ -26,3 +26,10 @@ date: 2025-11-14 11:49:12
 - ollama 搭建
 - 搞虚拟机
 - （没想好）
+
+## 友链
+
+- **EternalIllusion** [Blog | eterill.xyz](https://eterill.xyz/) // [Github](https://github.com/EternalIllusion)
+- [**Hexo** | hexo.io](https://hexo.io/)
+- [**Nextcloud （我之前玩过的云）** | nextcloud.com](https://nextcloud.com/)
+- [**cpolar内网穿透服务** | cpolar.com](https://dashboard.cpolar.com/login)
