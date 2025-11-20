@@ -1,7 +1,7 @@
 ---
 title: '树莓派 rdp 云电脑搭建'
 date: 2025-11-14 11:59:31
-tags: rpi
+tags: hardware
 category: Blog
 ---
 
